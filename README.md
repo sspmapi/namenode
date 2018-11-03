@@ -1,0 +1,2 @@
+# namenode
+Hadoop cdh namenode
